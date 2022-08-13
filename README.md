@@ -1,2 +1,2 @@
 ## Netflix-Clone-App React-TS
-### Deploy → 
+### Deploy → https://netflix-clone-react-ts-pre.netlify.app/
